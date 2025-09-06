@@ -62,5 +62,10 @@ Here’s a list of **original, untapped ideas** across multiple domains (avoidin
 3. **Future Self Messenger** (talk to your predicted self).
 
 ---
+🔥 New Ideas
 
-👉 Do you want me to **narrow this list down to 3–4 “killer ideas”** (with a roadmap of how you can actually build them step by step), so you can choose one as your *starting point*?
+Code Explainer Tool (Funny + Serious) — devs love humor, and it doubles as an educational project.
+
+AI Resume Generator — instantly viral AND useful for students/job seekers.
+
+Presentation Maker — students would actually use it both ways.
