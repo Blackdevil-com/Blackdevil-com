@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ken</h1>
+<h1 align="center">Hi 👋, I'm Bharath Kumar</h1>
 <h3 align="center">AI Engineer • Multi-LLM Orchestration • Full Stack Developer • Builder from India 🇮🇳</h3>
 
 <p align="center">
