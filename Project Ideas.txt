@@ -1,3 +1,11 @@
 # New main projects
 
 Hybrid Messenger using sms and internet protocols.
+
+
+
+If you want AI: Build the Autonomous Browser Agent — it's visually demoable, technically deep, and agentic AI is what companies are hiring for right now.
+
+If you want non-AI: Build the CRDT Whiteboard — it demonstrates algorithms, distributed systems, and product sense in one project.
+
+If you want to stand out in any interview: Build the Custom Compiler — interviewers will remember you as "the candidate who built a language."
