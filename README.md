@@ -31,16 +31,16 @@ I'm a final-year student building backend systems with Spring Boot and exploring
 
 ## 🌟 Featured Projects
 
-### 🤖 [Multi-LLM Router](https://github.com/bharathkumar-l/Multi-LLM-Router)
+### 🤖 [Multi-LLM Router](https://github.com/Blackdevil-com/Multi-LLM-Router)
 Backend orchestration gateway routing inference requests across multiple LLM providers using latency, cost, and fallback policies. Built with FastAPI and object-oriented design.
 
-### ✅ [Full-Stack Todo Application](https://github.com/bharathkumar-l/Todo-Application)
+### ✅ [Full-Stack Todo Application](https://github.com/Blackdevil-com/Todo-Application)
 Spring Boot + React + PostgreSQL todo app, rebuilt from an earlier JSP/Servlet version into a modern REST API architecture. Solved real CORS and deployment issues across Netlify and Render.
 
-### 🖱️ [WiFi Mouse Pad](https://github.com/bharathkumar-l/WiFi-Mouse-Pad)
+### 🖱️ [WiFi Mouse Pad](https://github.com/Blackdevil-com/WiFi-Mouse-Pad)
 Low-latency wireless desktop control system (<20ms round-trip) with a dual-process Kotlin + Python architecture.
 
-### 📂 [File Converter Platform](https://github.com/bharathkumar-l/File-Converter)
+### 📂 [File Converter Platform](https://github.com/Blackdevil-com/File-Converter)
 Cloud-based file conversion backend deployed on AWS EC2, exposing 11 REST endpoints with UUID-based request isolation.
 
 ---
