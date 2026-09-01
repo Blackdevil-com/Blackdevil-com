@@ -1,87 +1,55 @@
-<h1 align="center">Hi 👋, I'm Bharath Kumar</h1>
-<h3 align="center">AI Engineer • Multi-LLM Orchestration • Full Stack Developer • Builder from India 🇮🇳</h3>
+# Hi 👋, I'm Bharath Kumar L
 
-<p align="center">
-  <a href="https://github.com/Blackdevil-com">
-    <img src="https://komarev.com/ghpvc/?username=Blackdevil-com&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+### Java Backend Developer | Spring Boot | REST APIs | Final-Year B.Tech (AI & Data Science)
+
+I'm a final-year student building backend systems with Spring Boot and exploring full-stack development. I enjoy writing clean code, solving real deployment problems, and shipping projects end-to-end.
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building **AI Multi-LLM Orchestration Systems**
-- 🌱 Learning **Cloud Deployment, Distributed AI Systems, and Backend Scaling**
-- 🧠 Interested in **LLM Routing, AI Agents, Code Understanding, and Automation**
-- 💻 Love building **real-world tools that solve daily problems**
-- ⚡ Strong focus on **portfolio-worthy production projects**
-- 🎯 Goal: Become a **top AI Systems Engineer**
+
+- 🎓 Final-year B.Tech in AI & Data Science, Panimalar Engineering College
+- 💻 Focused on Java, Spring Boot, REST APIs, and PostgreSQL
+- 🌱 Currently exploring cloud deployment and AI infrastructure projects
+- 🛠️ Building full-stack apps end-to-end — frontend, backend, deployment
+- 📈 Solved 200+ problems on LeetCode
+- 🎯 Looking for entry-level / internship opportunities as a Java Backend Developer
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-![Kotlin](https://img.shields.io/badge/Kotlin-111?style=for-the-badge&logo=kotlin)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql)
+**Languages:** Java, Python, Kotlin, SQL, JavaScript, HTML, CSS
 
-### AI / Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
-![Redis](https://img.shields.io/badge/Redis-111?style=for-the-badge&logo=redis)
+**Backend:** Spring Boot, Spring MVC, REST APIs, Hibernate, PostgreSQL
 
-### Cloud / DevOps
-![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws)
-![Vercel](https://img.shields.io/badge/Vercel-111?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-111?style=for-the-badge&logo=render)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111?style=for-the-badge&logo=githubactions)
+**Frontend:** React.js, HTML, CSS
+
+**Cloud & Tools:** AWS EC2, Firebase (Auth & Firestore), Git, Linux
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🤖 Multi-LLM Router
-Smart orchestration layer that routes requests between multiple LLM providers for **cost, speed, and quality optimization**.
+### 🤖 [Multi-LLM Router](https://github.com/bharathkumar-l/Multi-LLM-Router)
+Backend orchestration gateway routing inference requests across multiple LLM providers using latency, cost, and fallback policies. Built with FastAPI and object-oriented design.
 
-### 🖱️ WiFi Mouse Pad
-Control your laptop mouse remotely from your mobile using **WiFi + Kotlin mobile integration**.
+### ✅ [Full-Stack Todo Application](https://github.com/bharathkumar-l/Todo-Application)
+Spring Boot + React + PostgreSQL todo app, rebuilt from an earlier JSP/Servlet version into a modern REST API architecture. Solved real CORS and deployment issues across Netlify and Render.
 
-### 🎬 DownTube
-A YouTube downloader project focused on **speed, reliability, and media conversion workflows**.
+### 🖱️ [WiFi Mouse Pad](https://github.com/bharathkumar-l/WiFi-Mouse-Pad)
+Low-latency wireless desktop control system (<20ms round-trip) with a dual-process Kotlin + Python architecture.
 
-### 📂 File Converter
-A utility project that converts multiple file formats using **Python backend automation**.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blackdevil-com&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackdevil-com&layout=compact&theme=tokyonight" />
-</p>
+### 📂 [File Converter Platform](https://github.com/bharathkumar-l/File-Converter)
+Cloud-based file conversion backend deployed on AWS EC2, exposing 11 REST endpoints with UUID-based request isolation.
 
 ---
 
-## 🔥 Current Focus
-- Multi-LLM orchestration
-- AI codebase understanding tools
-- Production deployment pipelines
-- FastAPI + scalable backend systems
-- Cloud cost optimization
+## 📫 Connect With Me
+
+- LinkedIn: [linkedin.com/in/bharath-kumar-l-0a320b319](https://linkedin.com/in/bharath-kumar-l-0a320b319)
+- Email: bharath42052@gmail.com
 
 ---
 
-## 🤝 Connect With Me
-<p>
-  <a href="https://github.com/Blackdevil-com">GitHub</a>
-</p>
-
----
-
-<p align="center">
-  ⚡ <b>Building AI systems that think, route, and scale.</b>
-</p>
+⭐️ Always learning, always building.
